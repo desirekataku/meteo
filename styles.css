@@ -23,3 +23,12 @@ input {
 button {
     padding: 10px 20px;
 }
+
+.input {
+        width: 60%;
+}
+
+.textarea {
+        width: 60%;
+        padding: 10px;
+}
